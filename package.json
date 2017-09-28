@@ -1,0 +1,23 @@
+{
+  "name": "projectorgame",
+  "version": "0.0.1",
+  "description": "A game meant to be displayed on a projector while the characters are controlled by phones.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nubzoar/ProjectorGame.git"
+  },
+  "author": "Devon Thompson",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nubzoar/ProjectorGame/issues"
+  },
+  "homepage": "https://github.com/nubzoar/ProjectorGame#readme",
+  "dependencies": {
+    "phaser-ce": "^2.8.8",
+    "socket.io": "^2.0.3"
+  }
+}
